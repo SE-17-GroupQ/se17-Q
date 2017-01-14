@@ -12,3 +12,4 @@
   - Expected time period. Like gain 10 lbs of muscle in 30 days
   - The program can automatically pick the right workout plan from the database
 - Android Reminder/Alarm with GPS Sensor (Reminds you of what to do when you enter a particular area)
+- Attendance System
