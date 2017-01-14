@@ -16,4 +16,4 @@
 - Connecting Patients to Health Professionals/Doctor
   - In rural areas the people are not able to get better health so to connect them thereby better health services
   - Can be done by making a web page as well as an application. As the rural areas just have low bandwidth so they can send symptoms via SMS services.
-  -Possible to make but for checking have to check the SMS client(free is not available).
+  - Possible to make but for checking have to check the SMS client(free is not available).
