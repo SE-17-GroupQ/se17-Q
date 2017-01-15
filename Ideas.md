@@ -18,5 +18,6 @@
   - Can be done by making a web page as well as an application. As the rural areas just have low bandwidth so they can send symptoms via SMS services.
   - Possible to make but for checking have to check the SMS client(free is not available).
 - Online ToDo List (with reminders once updated on phone should reflect on the laptop as well. similar to GoogleKeep)
-- Sublease finder - A plateform which helps you sublease your appartment
-  
+- Sublease finder
+  - A plateform which helps you find the person who is looking for appartments
+  - I know craigslist sort of does the job, but we might need a more professional plateform.
