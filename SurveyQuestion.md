@@ -16,3 +16,5 @@
 - 3
 - Many
  If many just write the approximate number-:
+
+4. Comparing to the traditional method(for example, singing on the attendance sheet), 
