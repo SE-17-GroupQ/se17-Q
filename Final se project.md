@@ -17,10 +17,4 @@ https://springerplus.springeropen.com/articles/10.1186/2193-1801-3-761
 A few more to go..
 -	http://www.ijirst.org/articles/IJIRSTV1I1027.pdf
 -	http://dl.acm.org/citation.cfm?id=2632054
--------------------------------------------------------------------------------------------------------------------
-
-**Meeting Room Booking Application (say for the Hunt library):**
-1.	Develop an app that provides you with a similar functionality as the website does however, since mobile applications are better than mobile responsive websites since apps function faster than websites.
-2.	Have a QR Code stuck outside every meeting room in Hunt – a quick room booking system.
-Third way (yet to be discovered)
 
