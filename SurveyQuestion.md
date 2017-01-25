@@ -18,3 +18,5 @@
  If many just write the approximate number-:
 
 4. Comparing to the traditional method(for example, singing on the attendance sheet), 
+5. Is it tedious for you to go and grab "attendance sheets"? 
+6. On a scale of 1(least) to 5(most), rate the idea that such attendances can be automated rather than filling up the attendance forms/sheets?
